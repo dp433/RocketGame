@@ -1,0 +1,13 @@
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\images\rocket.png
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\images\target.png
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\func-rocket.exe.config
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\func-rocket.exe
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\func-rocket.pdb
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func_rocket.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.exe
+C:\Users\Dmitry\source\repos\RocketGame\func-rocket\obj\Debug\func-rocket.pdb
